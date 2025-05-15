@@ -11,3 +11,6 @@ Running RabbitMQ as message broker
 
 Sending and processing event.
 ![img](image2.png)
+
+Monitoring chart based on publisher.
+![img](image3.png)
