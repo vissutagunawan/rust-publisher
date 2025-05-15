@@ -5,3 +5,6 @@ run?
 b. The url of: "amqp://guest:guest@localhost:5672" is the same as in the subscriber
 program, what does it mean?
 > The identical URL indicates that both the publisher and subscriber components are connecting to the same message broker instance for their communication.
+
+Running RabbitMQ as message broker
+![img](image.png)
