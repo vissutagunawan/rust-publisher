@@ -8,3 +8,6 @@ program, what does it mean?
 
 Running RabbitMQ as message broker
 ![img](image.png)
+
+Sending and processing event.
+![img](image2.png)
